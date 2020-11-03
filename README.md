@@ -1,1 +1,1 @@
-# Official reository for TheHub website
+# Official repository for TheHub website
